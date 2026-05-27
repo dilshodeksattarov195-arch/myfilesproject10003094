@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsecrypt",
+        "uuid": 10541258,
+        "checksum": "kg422a"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
